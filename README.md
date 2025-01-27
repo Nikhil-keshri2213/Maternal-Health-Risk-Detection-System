@@ -1,6 +1,5 @@
 # Maternal-Health-Risk-Detection-System
 ---
-title: 'Maternal Health Risk Detection'
 author: "Nikhil Keshri"
 date: "2024-10-28"
 output:
