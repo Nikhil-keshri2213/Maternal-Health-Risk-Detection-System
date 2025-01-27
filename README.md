@@ -1,9 +1,7 @@
 # Maternal-Health-Risk-Detection-System
 ---
-author: "Nikhil Keshri"
-date: "2024-10-28"
-output:
-  word_document: default
+Author: "Nikhil Keshri"
+Date: "2024-10-28"
 ---
 ### Maternal health refers to the health of women during pregnancy, childbirth, and the postpartum period. It encompasses the physical, mental, and social well-being of women as they go through these life stages, and it is critical to ensuring the health and well-being of both mothers and their newborns.
 
